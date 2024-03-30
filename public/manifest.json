@@ -1,0 +1,25 @@
+{
+  "short_name": "Offside OGs",
+  "name": "Offside OGs Kits Supplier",
+  "icons": [
+    {
+      "src": "resized_logo.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "resized_logo.JPEG",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo_transparent.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
