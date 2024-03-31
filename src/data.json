@@ -253,6 +253,17 @@
       "tags": "new"
     },
     {
+      "player_name": "Lionel Messi",
+      "club_name": "Inter Miami",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/cN2aG03g8bLX3iobJ8",
+      "thumbnail_url": "messi_miami_1.png",
+      "hover_thumbnail_url": "messi_miami_2.png",
+      "tags": "new"
+    },
+    {
       "player_name": "Jude Bellingham",
       "club_name": "Real Madrid",
       "year": "23-24",
