@@ -22,12 +22,12 @@ function FAQ() {
 
       <div className="faq-item">
         <h2>Do you offer international shipping?</h2>
-        <p>Yes, we offer international shipping to most countries. Shipping costs and delivery times may vary depending on your location.</p>
+        <p>Yes, we offer international shipping to limited countries. Shipping costs and delivery times may vary depending on your location.</p>
       </div>
 
       <div className="faq-item">
         <h2>What is your return policy?</h2>
-        <p>We want you to be completely satisfied with your purchase. If for any reason you are not happy with your order, please contact us within 7 days of receiving your items for a full refund or exchange.</p>
+        <p>We want you to be completely satisfied with your purchase. All sales are final. However, in some cases we may offer full or partial refund up to 7 days of receiving your item.</p>
       </div>
       
       <div className="faq-item">
