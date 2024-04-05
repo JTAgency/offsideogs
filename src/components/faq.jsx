@@ -26,6 +26,11 @@ function FAQ() {
       </div>
 
       <div className="faq-item">
+        <h2>How long does shipping take?</h2>
+        <p>Shipping generally takes anywhere between 2-4 weeks depending on the shipping address. </p>
+      </div>
+
+      <div className="faq-item">
         <h2>What is your return policy?</h2>
         <p>We want you to be completely satisfied with your purchase. All sales are final. However, in some cases we may offer full or partial refund up to 7 days of receiving your item.</p>
       </div>
