@@ -104,7 +104,7 @@ const Navbar = () => {
         <a href="https://www.offsideogs.com//">
           <img src={mainLogo} alt="Main Logo" style={mainLogoStyles} /> {/* Use the main logo here */}
         </a>
-        <a href="https://www.instagram.com/offside.originals/" className="instagram-link">
+        <a href="https://www.instagram.com/offside.ogs/" className="instagram-link">
           <img className="instagram-logo" src={instagramLogo} alt="Instagram" style={instagramStyles} />
         </a>
       </div>
@@ -130,7 +130,7 @@ const Navbar = () => {
               <a href="https://www.offsideogs.com//">
                 <img src={mainLogo} alt="Main Logo" style={mainLogoStyles} /> {/* Use the main logo here */}
               </a>
-              <a href="https://www.instagram.com/offside.originals/" className="instagram-link">
+              <a href="https://www.instagram.com/offside.ogs/" className="instagram-link">
               <img className="instagram-logo" src={instagramLogo} alt="Instagram" style={instagramStyles} />
             </a>
           </div>

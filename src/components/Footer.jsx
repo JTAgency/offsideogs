@@ -20,7 +20,7 @@ const Footer = () => {
                     <a href="https://www.offsideogs.com//">
                         <img src={mainLogo} alt="Main Logo" style={mainLogoStyles} /> {/* Use the main logo here */}
                     </a>
-                    <a href="https://www.instagram.com/offside.originals/">
+                    <a href="https://www.instagram.com/offside.ogs/">
                         <img src={instagramLogo} alt="Instagram" style={{ width: '40px', margin: '0 10px' }} />
                     </a>
                     {/* <a href="https://www.youtube.com/@itstexaco">

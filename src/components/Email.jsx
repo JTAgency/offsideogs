@@ -55,7 +55,7 @@ const Email = () => {
           onMouseLeave={handleMouseLeave}
         >
           {windowWidth >= 600 ? (
-            <a href="https://instagram.com/offside.originals" style={{ textDecoration: 'none', color: 'white' }}>
+            <a href="https://instagram.com/offside.ogs" style={{ textDecoration: 'none', color: 'white' }}>
               BULK ORDERS AVAILABLE: CONTACT US ON INSTAGRAM FOR DISCOUNT CODES ✉ 
             </a>
           ) : (
