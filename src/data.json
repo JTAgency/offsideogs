@@ -242,6 +242,17 @@
       "tags": "vintage"
     },
     {
+      "player_name": "",
+      "club_name": "Brazil",
+      "year": "06-07",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/fZe4hCaIAcQ11agcNH",
+      "thumbnail_url": "brazil_06_1.png",
+      "hover_thumbnail_url": "brazil_06_2.png",
+      "tags": "vintage"
+    },
+    {
       "player_name": "Lionel Messi",
       "club_name": "Argentina",
       "year": "22-23",
@@ -286,7 +297,51 @@
       "tags": "new"
     },
     {
-      "player_name": "Plain",
+      "player_name": "",
+      "club_name": "FC Barcelona",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/5kA29u8As3fr5qwdRK",
+      "thumbnail_url": "barcelona_24_1.png",
+      "hover_thumbnail_url": "barcelona_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Paris Saint German",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/4gwcO8eYQbLX06ceVN",
+      "thumbnail_url": "psg_brown_1.png",
+      "hover_thumbnail_url": "psg_brown_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "AC Milan",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/4gweWg7wocQ17yEcNE",
+      "thumbnail_url": "milan_white_24_1.png",
+      "hover_thumbnail_url": "milan_white_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "AC Milan",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/8wM9BWbME6rD06cdRH",
+      "thumbnail_url": "milan_black_24_1.png",
+      "hover_thumbnail_url": "milan_black_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
       "club_name": "Club America",
       "year": "23-24",
       "item": "Soccer Jersey",
