@@ -275,25 +275,36 @@
       "tags": "new"
     },
     {
-      "player_name": "Jude Bellingham",
+      "player_name": "",
+      "club_name": "Real Madrid",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/9AQ9BW3g803fbOU5lg",
+      "thumbnail_url": "madrid_white_24_1.png",
+      "hover_thumbnail_url": "madrid_white_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
       "club_name": "Real Madrid",
       "year": "23-24",
       "item": "Soccer Jersey",
       "price": "$54.99",
       "url": "https://buy.stripe.com/7sI7tO03W7vHcSYbJa",
-      "thumbnail_url": "bellingham_madrid_grey_1.png",
-      "hover_thumbnail_url": "bellingham_madrid_grey_2.png",
+      "thumbnail_url": "madrid_grey_24_1.png",
+      "hover_thumbnail_url": "madrid_grey_24_2.png",
       "tags": "new"
     },
     {
-      "player_name": "Jude Bellingham",
+      "player_name": "",
       "club_name": "Real Madrid",
       "year": "23-24",
       "item": "Soccer Jersey",
       "price": "$54.99",
       "url": "https://buy.stripe.com/fZe29uaIAdU5g5a00r",
-      "thumbnail_url": "bellingham_madrid_black_1.png",
-      "hover_thumbnail_url": "bellingham_madrid_black_2.png",
+      "thumbnail_url": "madrid_black_24_1.png",
+      "hover_thumbnail_url": "madrid_black_24_2.png",
       "tags": "new"
     },
     {
