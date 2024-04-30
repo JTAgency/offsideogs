@@ -320,6 +320,83 @@
     },
     {
       "player_name": "",
+      "club_name": "Atletico Madrid",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/cN2dScdUMdU56uA00Y",
+      "thumbnail_url": "atletico_24_1.png",
+      "hover_thumbnail_url": "atletico_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Arsenal",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/00g15qdUMdU58CIeVR",
+      "thumbnail_url": "arsenal_24_1.png",
+      "hover_thumbnail_url": "arsenal_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Manchester City",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/fZe01m3g83fraKQbJI",
+      "thumbnail_url": "city_24_1.png",
+      "hover_thumbnail_url": "city_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Liverpool",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/7sIdScbME17j5qw7tu",
+      "thumbnail_url": "liverpool_24_1.png",
+      "hover_thumbnail_url": "liverpool_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Chelsea",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/8wMcO8eYQ6rD7yE8xv",
+      "thumbnail_url": "chelsea_24_1.png",
+      "hover_thumbnail_url": "chelsea_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Manchester United",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/14k5lG9EwcQ18CI5ll",
+      "thumbnail_url": "united_24_1.png",
+      "hover_thumbnail_url": "united_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Paris Saint German",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/cN27tO7wodU506cg03",
+      "thumbnail_url": "psg_24_1.png",
+      "hover_thumbnail_url": "psg_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
       "club_name": "Paris Saint German",
       "year": "23-24",
       "item": "Soccer Jersey",
@@ -327,6 +404,28 @@
       "url": "https://buy.stripe.com/4gwcO8eYQbLX06ceVN",
       "thumbnail_url": "psg_brown_1.png",
       "hover_thumbnail_url": "psg_brown_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Bayern Munich",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/6oE5lGaIAaHT3io5lr",
+      "thumbnail_url": "bayern_24_1.png",
+      "hover_thumbnail_url": "bayern_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Dortmund",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/cN215q3g8g2d8CI29e",
+      "thumbnail_url": "dortmund_24_1.png",
+      "hover_thumbnail_url": "dortmund_24_2.png",
       "tags": "new"
     },
     {
@@ -349,6 +448,28 @@
       "url": "https://buy.stripe.com/8wM9BWbME6rD06cdRH",
       "thumbnail_url": "milan_black_24_1.png",
       "hover_thumbnail_url": "milan_black_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Inter Milan",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/28o9BWeYQg2d5qweVY",
+      "thumbnail_url": "inter_24_1.png",
+      "hover_thumbnail_url": "inter_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Juventus",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/7sIdSc5ogcQ18CIg01",
+      "thumbnail_url": "juve_24_1.png",
+      "hover_thumbnail_url": "juve_24_2.png",
       "tags": "new"
     },
     {
