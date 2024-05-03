@@ -253,28 +253,6 @@
       "tags": "vintage"
     },
     {
-      "player_name": "Lionel Messi",
-      "club_name": "Argentina",
-      "year": "22-23",
-      "item": "Soccer Jersey",
-      "price": "$54.99",
-      "url": "https://buy.stripe.com/28o6pK8As2bnbOUcNf",
-      "thumbnail_url": "messi_argentina_1.png",
-      "hover_thumbnail_url": "messi_argentina_2.png",
-      "tags": "new"
-    },
-    {
-      "player_name": "Lionel Messi",
-      "club_name": "Inter Miami",
-      "year": "23-24",
-      "item": "Soccer Jersey",
-      "price": "$54.99",
-      "url": "https://buy.stripe.com/bIY4hC2c4eY9dX2eVK",
-      "thumbnail_url": "messi_miami_1.png",
-      "hover_thumbnail_url": "messi_miami_2.png",
-      "tags": "new"
-    },
-    {
       "player_name": "",
       "club_name": "Real Madrid",
       "year": "23-24",
@@ -470,6 +448,39 @@
       "url": "https://buy.stripe.com/7sIdSc5ogcQ18CIg01",
       "thumbnail_url": "juve_24_1.png",
       "hover_thumbnail_url": "juve_24_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "Lionel Messi",
+      "club_name": "Argentina",
+      "year": "22-23",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/28o6pK8As2bnbOUcNf",
+      "thumbnail_url": "messi_argentina_1.png",
+      "hover_thumbnail_url": "messi_argentina_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "Lionel Messi",
+      "club_name": "Inter Miami",
+      "year": "23-24",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/bIY4hC2c4eY9dX2eVK",
+      "thumbnail_url": "messi_miami_1.png",
+      "hover_thumbnail_url": "messi_miami_2.png",
+      "tags": "new"
+    },
+    {
+      "player_name": "",
+      "club_name": "Brazil",
+      "year": "22-23",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/bIY3dycQI17j5qw4ho",
+      "thumbnail_url": "brazil_blue_22_1.png",
+      "hover_thumbnail_url": "brazil_blue_22_2.png",
       "tags": "new"
     },
     {
