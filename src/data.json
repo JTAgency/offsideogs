@@ -198,6 +198,50 @@
       "tags": "vintage"
     },
     {
+      "player_name": "",
+      "club_name": "FC Barcelona",
+      "year": "99-00",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/00g4hCdUM5nz1ag9BK",
+      "thumbnail_url": "barca_99_1.png",
+      "hover_thumbnail_url": "barca_99_2.png",
+      "tags": "vintage"
+    },
+    {
+      "player_name": "",
+      "club_name": "FC Barcelona",
+      "year": "10-11",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/cN27tO9Ew5nz7yE5lv",
+      "thumbnail_url": "barca_10_1.png",
+      "hover_thumbnail_url": "barca_10_2.png",
+      "tags": "vintage"
+    },
+    {
+      "player_name": "",
+      "club_name": "FC Barcelona",
+      "year": "11-12",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/cN23dy4kc6rDcSYaFQ",
+      "thumbnail_url": "barca_12_1.png",
+      "hover_thumbnail_url": "barca_12_2.png",
+      "tags": "vintage"
+    },
+    {
+      "player_name": "",
+      "club_name": "FC Barcelona",
+      "year": "12-13",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/00g8xSdUM5nz7yE3dp",
+      "thumbnail_url": "barca_13_1.png",
+      "hover_thumbnail_url": "barca_13_2.png",
+      "tags": "vintage"
+    },
+    {
       "player_name": "Neymar JR",
       "club_name": "FC Barcelona",
       "year": "15-16",
