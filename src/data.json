@@ -254,6 +254,17 @@
     },
     {
       "player_name": "",
+      "club_name": "Brazil",
+      "year": "02-03",
+      "item": "Soccer Jersey",
+      "price": "$54.99",
+      "url": "https://buy.stripe.com/28o8xS5og5nzg5abJR",
+      "thumbnail_url": "brazil_blue_02_1.png",
+      "hover_thumbnail_url": "brazil_blue_02_2.png",
+      "tags": "vintage"
+    },
+    {
+      "player_name": "",
       "club_name": "Real Madrid",
       "year": "23-24",
       "item": "Soccer Jersey",
