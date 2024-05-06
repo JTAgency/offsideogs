@@ -150,20 +150,20 @@ const Navbar = () => {
           paddingBottom: '1000px',
           opacity: mobileNavOpacity,
           zIndex: 9999, // Set a higher z-index
-          transition: 'opacity 0.8s ease',
+          transition: 'opacity 0.8s ease'
         }}>
-          <Link to="/" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333', fontFamily: 'Inter' }}>Home</Link>
-          <Link to="/vintageKits" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333', fontFamily: 'Inter' }}>Vintage Kits</Link>
-          <Link to="/newKits" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>New Kits</Link>
-          <Link to="/nationalTeams" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>National Teams</Link>
-          <Link to="/premierLeague" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Premier league</Link>
-          <Link to="/laLiga" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>La Liga</Link>
-          <Link to="/serieA" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Serie A</Link>
-          <Link to="/bundesliga" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Bundesliga</Link>
-          <Link to="/ligue1" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Ligue 1</Link>
-          <Link to="/mls" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>MLS</Link>
-          <Link to="/other" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Other Clubs</Link>
-          <Link to="/faq" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>FAQ</Link>
+          <Link to="/" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333', fontFamily: 'Inter' }}>Home</Link>
+          <Link to="/vintageKits" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333', fontFamily: 'Inter' }}>Vintage Kits</Link>
+          <Link to="/newKits" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>New Kits</Link>
+          <Link to="/nationalTeams" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>National Teams</Link>
+          <Link to="/premierLeague" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Premier league</Link>
+          <Link to="/laLiga" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>La Liga</Link>
+          <Link to="/serieA" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Serie A</Link>
+          <Link to="/bundesliga" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Bundesliga</Link>
+          <Link to="/ligue1" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Ligue 1</Link>
+          <Link to="/mls" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>MLS</Link>
+          <Link to="/other" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Other Clubs</Link>
+          <Link to="/faq" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>FAQ</Link>
           {/* <Link to="/about" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>About</Link> */}
         </div>
       )}
