@@ -5,6 +5,14 @@ import Footer from './components/Footer';
 import Nav from './components/Nav';
 import VintageKits from './components/VintageKits';
 import NewKits from './components/NewKits';
+import NationalTeams from './components/NationalTeams';
+import PremierLeague from './components/PremierLeague';
+import LaLiga from './components/LaLiga';
+import SerieA from './components/SerieA';
+import Bundesliga from './components/Bundesliga';
+import Ligue1 from './components/Ligue1';
+import Mls from './components/Mls';
+import Other from './components/Other';
 import FAQ from './components/faq';
 import Email from './components/Email';
 // import Subscriber from './components/Subscriber';
@@ -49,6 +57,38 @@ function App() {
           <Route
             path="/newKits"
             element={<NewKits products={jsonData} />}
+          />
+          <Route
+            path="/nationalTeams"
+            element={<NationalTeams products={jsonData} />}
+          />
+          <Route
+            path="/premierLeague"
+            element={<PremierLeague products={jsonData} />}
+          />
+          <Route
+            path="/laLiga"
+            element={<LaLiga products={jsonData} />}
+          />
+          <Route
+            path="/serieA"
+            element={<SerieA products={jsonData} />}
+          />
+          <Route
+            path="/bundesliga"
+            element={<Bundesliga products={jsonData} />}
+          />
+          <Route
+            path="/ligue1"
+            element={<Ligue1 products={jsonData} />}
+          />
+          <Route
+            path="/mls"
+            element={<Mls products={jsonData} />}
+          />
+          <Route
+            path="/other"
+            element={<Other products={jsonData} />}
           />
           <Route
             path="/faq"
