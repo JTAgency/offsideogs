@@ -56,11 +56,11 @@ const Email = () => {
         >
           {windowWidth >= 600 ? (
             <a href="https://instagram.com/offside.ogs" style={{ textDecoration: 'none', color: 'white' }}>
-              BULK ORDERS AVAILABLE: CONTACT US ON INSTAGRAM FOR DISCOUNT CODES ✉ 
+              SELECT SIZE UPON CHECKOUT! BULK ORDERS DM ON INSTAGRAM ✉ 
             </a>
           ) : (
             <Link to="/newsletter" style={{ textDecoration: 'none', color: 'white' }}>
-              BULK ORDERS AVAILABLE
+              SELECT SIZE UPON CHECKOUT!
             </Link>
           )}
           <span style={{ position: 'absolute', top: 0, right: 0, padding: '0px', cursor: 'pointer', paddingRight: '20px' }} onClick={handleClose}>
