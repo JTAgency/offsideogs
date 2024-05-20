@@ -12,6 +12,7 @@ import SerieA from './components/SerieA';
 import Bundesliga from './components/Bundesliga';
 import Ligue1 from './components/Ligue1';
 import Mls from './components/Mls';
+import Nba from './components/Nba';
 import Other from './components/Other';
 import FAQ from './components/faq';
 import Email from './components/Email';
@@ -35,6 +36,7 @@ function App() {
           <Route path="/bundesliga" element={<Bundesliga products={jsonData} />} />
           <Route path="/ligue1" element={<Ligue1 products={jsonData} />} />
           <Route path="/mls" element={<Mls products={jsonData} />} />
+          <Route path="/nba" element={<Nba products={jsonData} />} />
           <Route path="/other" element={<Other products={jsonData} />} />
           <Route path="/faq" element={<FAQ products={jsonData} />} />
           <Route path="/product/:id" element={<Pdt products={jsonData} />} />

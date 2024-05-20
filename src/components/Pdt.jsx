@@ -134,7 +134,7 @@ const Pdt = () => {
             <li style={{ display: 'inline-block', marginRight: '5px', background: '#f0f0f0', padding: '3px 8px', borderRadius: '4px', fontSize: '12px' }}>XL</li>
             <li style={{ display: 'inline-block', background: '#f0f0f0', padding: '3px 8px', borderRadius: '4px', fontSize: '12px' }}>XXL</li>
           </ul>
-          <p>Size and Custom Name and Number: Select at checkout.</p>
+          <p>Size, Custom Name and Number: Select at checkout.</p>
           <div style={{ display: 'flex', justifyContent: 'center' }}>
           <button 
             style={{ 

@@ -162,6 +162,7 @@ const Navbar = () => {
           <Link to="/bundesliga" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Bundesliga</Link>
           <Link to="/ligue1" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Ligue 1</Link>
           <Link to="/mls" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>MLS</Link>
+          <Link to="/nba" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>NBA</Link>
           <Link to="/other" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>Other Clubs</Link>
           <Link to="/faq" onClick={() => setOpen(false)} style={{ marginBottom: '8px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>FAQ</Link>
           {/* <Link to="/about" onClick={() => setOpen(false)} style={{ marginBottom: '20px', fontSize: '1.5em', textDecoration: 'none', color: '#333',  fontFamily: 'Inter' }}>About</Link> */}

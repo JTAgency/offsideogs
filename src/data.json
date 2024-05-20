@@ -646,5 +646,29 @@
         "thumbnail_url": "america_1.png", 
         "year": "23-24", 
         "id": "4025"
+    },
+    {
+        "player_name": "Kobe Bryant", 
+        "club_name": "Lakers", 
+        "url": "https://buy.stripe.com/5kA4hC9Ew4jv9GMaFX", 
+        "price": "$84.99", 
+        "tags": "vintage nba", 
+        "hover_thumbnail_url": "kobe_09_yellow_2.png", 
+        "item": "Basketball Jersey", 
+        "thumbnail_url": "kobe_09_yellow_1.png", 
+        "year": "2009", 
+        "id": "0010"
+    },
+    {
+        "player_name": "Kobe Bryant", 
+        "club_name": "Lakers", 
+        "url": "https://buy.stripe.com/5kA7tOcQI8zLf16cO4", 
+        "price": "$84.99", 
+        "tags": "vintage nba", 
+        "hover_thumbnail_url": "kobe_09_purple_2.png", 
+        "item": "Basketball Jersey", 
+        "thumbnail_url": "kobe_09_purple_1.png", 
+        "year": "2009", 
+        "id": "0011"
     }
 ]
