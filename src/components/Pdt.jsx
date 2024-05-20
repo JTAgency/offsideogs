@@ -173,7 +173,7 @@ const styles = {
     position: 'relative',
   },
   image: {
-    width: '100%',
+    width: '99%',
     height: 'auto',
     display: 'block',
     border: '1px solid #ddd',
@@ -183,7 +183,7 @@ const styles = {
     top: '50%',
     left: '2px',
     transform: 'translateY(-50%)',
-    background: 'rgba(0, 0, 0, 0.1)', // 70% visible white background
+    background: 'rgba(0, 0, 0, 0.0)', // 70% visible white background
     border: 'none',
     fontSize: '20px',
     color: '#000', // Adjust the color as needed
@@ -197,7 +197,7 @@ const styles = {
     top: '50%',
     right: '0px',
     transform: 'translateY(-50%)',
-    background: 'rgba(0, 0, 0, 0.1)', // 70% visible white background
+    background: 'rgba(0, 0, 0, 0.0)', // 70% visible white background
     border: 'none',
     fontSize: '20px',
     color: '#000', // Adjust the color as needed
