@@ -1,7 +1,8 @@
 import React from 'react';
+import { Link } from 'react-router-dom'; // Import Link from react-router-dom
 
 const ProductCard = ({ product }) => {
-  const { player_name, club_name, year, item, price, url, thumbnail_url, hover_thumbnail_url } = product;
+  const { player_name, club_name, year, item, price, thumbnail_url, hover_thumbnail_url, id } = product;
 
   const [imageSrc, setImageSrc] = React.useState(thumbnail_url); // Initialize with thumbnail_url
   const [isHovered, setIsHovered] = React.useState(false);
@@ -24,26 +25,26 @@ const ProductCard = ({ product }) => {
     };
   }, [thumbnail_url, hover_thumbnail_url, isHovered]);
 
-  const display_name = player_name + " " + club_name + " " + year + " " + item;
+  const displayName = player_name + " " + club_name + " " + year + " " + item;
 
   return (
-    <a href={url} rel="noopener noreferrer" style={styles.cardLink}>
+    <Link to={`/product/${id}`} style={styles.cardLink}>
       <div
         style={{
           ...styles.card,
-          maxWidth: isHovered ? '250px' : '240px', // Adjusting maxWidth on hover
-          boxShadow: isHovered ? '0 4px 8px rgba(0, 0, 0, 0.1)' : 'none', // Adding box shadow on hover
+          maxWidth: isHovered ? '250px' : '240px',
+          boxShadow: isHovered ? '0 4px 8px rgba(0, 0, 0, 0.1)' : 'none',
         }}
-        onMouseEnter={() => setIsHovered(true)} // Set isHovered to true when mouse enters
-        onMouseLeave={() => setIsHovered(false)} // Set isHovered to false when mouse leaves
+        onMouseEnter={() => setIsHovered(true)}
+        onMouseLeave={() => setIsHovered(false)}
       >
         <img src={imageSrc} alt={"Soccer Jersey"} style={styles.image} />
         <div style={styles.cardContent}>
-          <h3 style={styles.title}>{display_name}</h3>
+          <h3 style={styles.title}>{displayName}</h3>
           <p style={styles.price}>{price + " USD"}</p>
         </div>
       </div>
-    </a>
+    </Link>
   );
 };
 
@@ -58,8 +59,8 @@ const styles = {
     maxWidth: '240px',
     overflow: 'hidden',
     backgroundColor: '#fff',
-    position: 'relative', // Position relative for absolute positioning of image
-    transition: 'max-width 0.3s ease, box-shadow 0.3s ease', // Adding transition for smoother effect
+    position: 'relative',
+    transition: 'max-width 0.3s ease, box-shadow 0.3s ease',
   },
   image: {
     width: '100%',
