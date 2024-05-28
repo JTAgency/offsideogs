@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import ProductWall from './components/ProductWall';
 import Footer from './components/Footer';
@@ -20,9 +20,28 @@ import Pdt from './components/Pdt';
 import jsonData from './data.json';
 
 function App() {
+  const [fade, setFade] = useState(false);
+
+  useEffect(() => {
+    // Set fade to true after the component mounts
+    setFade(true);
+  }, []);
+
   return (
     <Router>
-      <div>
+      <style>
+        {`
+          .fade-in {
+            opacity: 0;
+            transition: opacity 1.0s ease-in-out;
+          }
+
+          .fade-in.active {
+            opacity: 1;
+          }
+        `}
+      </style>
+      <div className={fade ? 'fade-in active' : 'fade-in'}>
         <Email />
         <Nav />
         <Routes>
