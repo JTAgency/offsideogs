@@ -118,7 +118,19 @@
         "thumbnail_url": "beckham_galaxy_blue_1.png", 
         "year": "11-12", 
         "id": "5963"
-    }, 
+    },
+    {
+        "player_name": "David Beckham", 
+        "club_name": "LA Galaxy", 
+        "url": "https://buy.stripe.com/dR69BW03W8zLbOU6pJ", 
+        "price": "$54.99", 
+        "tags": "vintage mls", 
+        "hover_thumbnail_url": "beckham_12_blue_short_2.png", 
+        "item": "Soccer Jersey", 
+        "thumbnail_url": "beckham_12_blue_short_1.png", 
+        "year": "11-12", 
+        "id": "5964"
+    },  
     {
         "player_name": "David Beckham", 
         "club_name": "LA Galaxy", 
@@ -154,6 +166,18 @@
         "thumbnail_url": "ronaldo_madrid_black_1.png", 
         "year": "14-15", 
         "id": "3809"
+    },
+    {
+        "player_name": "Cristiano Ronaldo", 
+        "club_name": "Real Madrid", 
+        "url": "https://buy.stripe.com/3csbK403WaHT2ek4hC", 
+        "price": "$54.99", 
+        "tags": "vintage laliga", 
+        "hover_thumbnail_url": "ronaldo_madrid_12_black_2.png", 
+        "item": "Soccer Jersey", 
+        "thumbnail_url": "ronaldo_madrid_12_black_1.png", 
+        "year": "11-12", 
+        "id": "3819"
     }, 
     {
         "player_name": "Cristiano Ronaldo", 

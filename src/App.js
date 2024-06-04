@@ -33,7 +33,7 @@ function App() {
         {`
           .fade-in {
             opacity: 0;
-            transition: opacity 1.0s ease-in-out;
+            transition: opacity 1.5s ease-in-out;
           }
 
           .fade-in.active {
